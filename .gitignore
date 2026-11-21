@@ -17,5 +17,4 @@ abb_ws/src/mqtt_client/
 
 abb_ws/src/profactor_ros2/*.pyc
 **/__pycache__/
-*.pyc
-*.DS_Store
+*.pyc.DS_Store
