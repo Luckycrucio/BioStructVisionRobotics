@@ -1,3 +1,13 @@
+<table align="center">
+  <tr>
+    <td align="center"><img src="visual_images/unipd_logo.jpg" alt="Università degli Studi di Padova" height="120"></td>
+    <td align="center">
+      <img src="visual_images/biostruct_logo.png" alt="BioStruct" width="220"><br>
+      <img src="visual_images/profactor_logo.png" alt="PROFACTOR" width="220">
+    </td>
+  </tr>
+</table>
+
 # BioStruct Vision-Robotics
 
 **Integrated Vision-Robotic Software for Automated Draping of Bio-Fiber Composite Parts:
@@ -79,6 +89,8 @@ If you use this work, please cite the thesis:
 }
 ```
 
----
+## Acknowledgements
 
-*Developed at PROFACTOR GmbH within the BioStruct project, co-funded by the European Union.*
+<img src="visual_images/eu_cofunded.png" alt="Co-funded by the European Union" width="280">
+
+The work presented in this thesis is related to the project “BioStruct” and has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No 101136335. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them.
